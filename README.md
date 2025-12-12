@@ -13,20 +13,6 @@
 
 ---
 
-## 📊 **Estatísticas do GitHub**
-
-<div align="center">
-
-<!-- Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<!-- Linguagens -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📈 **Gráfico de Commits**
 
 <div align="center">
@@ -49,33 +35,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 
-## 🎮 **Projetos em Destaque**
-
-
----
-
-## ✨ **Badges e Estatísticas Extras**
-
-### ⭐ Contribuições
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
-
-### 🏆 Títulos & Conquistas
-![Trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&margin-w=8)
-
----
-
-## 🎨 **Animações e elementos visuais**
-
-<div align="center">
-  
-  <!-- Cobra comendo commits -->
-  ![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 📫 **Onde me encontrar**
 
