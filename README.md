@@ -7,17 +7,9 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento FullStack
-- 💻 Apaixonado por criar interfaces modernas e funcionais  
+- 💻 Apaixonado por criar interfaces modernas e funcionais
 - 🌱 Atualmente estudando **React**, **Tailwind**, **APIs** e **Clean Code**  
 - 🎯 Objetivo: Conseguir um **estágio em desenvolvimento Front-End**  
-
----
-
-## 📈 **Gráfico de Commits**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night" />
-</div>
 
 ---
 
